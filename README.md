@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 ### Projetos:
-Portfolio: https://alexandrecruz.dev.br/
-
 Network CS50: https://www.youtube.com/watch?v=SirCk41M73E
 
 Calculadora (Kivy): https://youtu.be/jWMk5Z_VT0E
