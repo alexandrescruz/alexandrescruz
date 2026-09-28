@@ -37,9 +37,9 @@ Construir uma carreira em tecnologia, contribuindo para projetos inovadores, apr
 
 ## Contato
 
-- GitHub: https://github.com/alexandrescruz
-- Linkedin: https://www.linkedin.com/in/alexandrecruz1/
-- Email: alexandrescruzwork@gmail.com
+- [GitHub](https://github.com/alexandrescruz)
+- [Linkedin](https://www.linkedin.com/in/alexandrecruz1/)
+- [Email](alexandrescruzwork@gmail.com)
 - Disponível para oportunidades, colaborações e projetos de tecnologia
 
 Seja bem-vindo ao meu perfil e aos meus projetos.
